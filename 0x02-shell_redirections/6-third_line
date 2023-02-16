@@ -1,2 +1,2 @@
 #!/bin/bash
-fmt iacta
+. -type f -print iacta
