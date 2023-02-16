@@ -1,2 +1,2 @@
 #!/bin/bash
-. -type f -print iacta
+head -3 iacta | tail -1
